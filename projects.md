@@ -4,4 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-Here I will list my projects 
+## How to write clearly?
+
+- (Writing honestly)[/_posts/2020-01-22-writing-honestly.md]
+
+## Tools for sociological imagination
+
+-
+
+## Investigating sociological methods
+
+-
