@@ -5,30 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-sidebar: true                # show a sidebar instead of the usual header
-show_excerpts: false         # show article excerpts on the home page
-show_footer: false           # show the "previous" and "next" links at the end of each post
-dark_header: false           # keep the top-header dark
-hide_title: false            # hide the site title in the header
-minimal: false               # minima-inspired style without box-shadows
-
 # Build settings
-# theme: minima
+theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-default-layout
-
-# see http://fontawesome.com/icons for icons
-
-navigation:
-  - {file: "index.html", icon: home}
-  - {file: "about.md", icon: address-card}
-
-external:
-  - {title: Mail, icon: envelope, url: "mailto:thesociologicalfile@protonmail.com"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:                    # embed disqus or isso comments
-#  disqus: ""
-#  isso: ""
